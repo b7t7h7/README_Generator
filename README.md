@@ -4,13 +4,13 @@
 This project runs an application in the command line that generates a README file based on user input.
 
 # Table of Contents
-Installation
-Usage
-License
-Contributing
-Tests
-Questions
-Installation
+* Installation
+* Usage
+* License
+* Contributing
+* Tests
+* Questions
+* Installation
 
 # To install necessary dependencies, run the following command(s):
 npm install
