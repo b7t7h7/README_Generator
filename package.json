@@ -30,7 +30,7 @@
       "resolved": "https://registry.npmjs.org/ansi-styles/-/ansi-styles-3.2.1.tgz",
       "version": "3.2.1"
     },
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "badge-maker": "^3.0.0",
     "binary-search": {
       "integrity": "sha512-nbE1WxOTTrUWIfsfZ4aHGYu5DOuNkbxGokjV6Z2kxfJK3uaAb8zNK1muzOeipoLHZjInT4Br88BHpzevc681xA==",
